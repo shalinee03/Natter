@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "534670638314",
+    "firebase_url": "https://natter-39680.firebaseio.com",
+    "project_id": "natter-39680",
+    "storage_bucket": "natter-39680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534670638314:android:aefc61e825d328c7",
+        "android_client_info": {
+          "package_name": "com.example.natter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534670638314-6id2ucaf9l0ssg61h0ppgonkptebb92j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.natter",
+            "certificate_hash": "4a8bed0fdb7b580d384837191e9d4c56107c4c75"
+          }
+        },
+        {
+          "client_id": "534670638314-ic2gg7aumf7gl06g3vok6r54bgjj3ui6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgy6f12Kn743ZQpWhdNFrfxmRXt4Zgl6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534670638314-ic2gg7aumf7gl06g3vok6r54bgjj3ui6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
